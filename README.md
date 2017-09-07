@@ -6,6 +6,7 @@ Graphs to show in a different way data from the Brazilian Stock Market BMF&Boves
 
 This graph shows how big is the share of a individual paper in the determination of the total index. Data is beign grouped by sector.
 
+![Ibovespa Composition](https://user-images.githubusercontent.com/33385/30187896-aff520bc-9423-11e7-9146-661fdee7692d.png)
 
 ### Install
 ```
