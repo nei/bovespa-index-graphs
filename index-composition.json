@@ -1,0 +1,354 @@
+[{
+	"code": "ABEV3",
+	"stock": "AMBEV S/A",
+	"type": "ON",
+	"quantity": "4,218,493,554",
+	"share": 7.025
+}, {
+	"code": "BBAS3",
+	"stock": "BRASIL",
+	"type": "ON NM",
+	"quantity": "1,226,268,476",
+	"share": 3.323
+}, {
+	"code": "BBDC3",
+	"stock": "BRADESCO",
+	"type": "ON EJ N1",
+	"quantity": "542,845,692",
+	"share": 1.491
+}, {
+	"code": "BBDC4",
+	"stock": "BRADESCO",
+	"type": "PN EJ N1",
+	"quantity": "2,932,656,271",
+	"share": 8.315
+}, {
+	"code": "BBSE3",
+	"stock": "BBSEGURIDADE",
+	"type": "ON NM",
+	"quantity": "671,580,824",
+	"share": 1.596
+}, {
+	"code": "BRAP4",
+	"stock": "BRADESPAR",
+	"type": "PN N1",
+	"quantity": "221,524,907",
+	"share": 0.507
+}, {
+	"code": "BRFS3",
+	"stock": "BRF SA",
+	"type": "ON NM",
+	"quantity": "799,005,245",
+	"share": 2.973
+}, {
+	"code": "BRKM5",
+	"stock": "BRASKEM",
+	"type": "PNA N1",
+	"quantity": "264,585,722",
+	"share": 0.881
+}, {
+	"code": "BRML3",
+	"stock": "BR MALLS PAR",
+	"type": "ON NM",
+	"quantity": "838,218,545",
+	"share": 0.969
+}, {
+	"code": "BVMF3",
+	"stock": "BMFBOVESPA",
+	"type": "ON NM",
+	"quantity": "2,035,474,854",
+	"share": 3.833
+}, {
+	"code": "CCRO3",
+	"stock": "CCR SA",
+	"type": "ON NM",
+	"quantity": "1,115,695,556",
+	"share": 1.627
+}, {
+	"code": "CIEL3",
+	"stock": "CIELO",
+	"type": "ON NM",
+	"quantity": "1,117,071,941",
+	"share": 2.070
+}, {
+	"code": "CMIG4",
+	"stock": "CEMIG",
+	"type": "PN N1",
+	"quantity": "832,479,513",
+	"share": 0.584
+}, {
+	"code": "CPFE3",
+	"stock": "CPFL ENERGIA",
+	"type": "ON NM",
+	"quantity": "461,726,179",
+	"share": 1.037
+}, {
+	"code": "CPLE6",
+	"stock": "COPEL",
+	"type": "PNB N1",
+	"quantity": "101,013,662",
+	"share": 0.243
+}, {
+	"code": "CSAN3",
+	"stock": "COSAN",
+	"type": "ON NM",
+	"quantity": "153,658,655",
+	"share": 0.496
+}, {
+	"code": "CSNA3",
+	"stock": "SID NACIONAL",
+	"type": "ON",
+	"quantity": "601,219,554",
+	"share": 0.489
+}, {
+	"code": "CYRE3",
+	"stock": "CYRELA REALT",
+	"type": "ON NM",
+	"quantity": "243,978,474",
+	"share": 0.279
+}, {
+	"code": "ECOR3",
+	"stock": "ECORODOVIAS",
+	"type": "ON NM",
+	"quantity": "186,126,859",
+	"share": 0.169
+}, {
+	"code": "EGIE3",
+	"stock": "ENGIE BRASIL",
+	"type": "ON NM",
+	"quantity": "203,865,231",
+	"share": 0.607
+}, {
+	"code": "ELET3",
+	"stock": "ELETROBRAS",
+	"type": "ON N1",
+	"quantity": "269,694,241",
+	"share": 0.425
+}, {
+	"code": "ELET6",
+	"stock": "ELETROBRAS",
+	"type": "PNB N1",
+	"quantity": "225,964,766",
+	"share": 0.411
+}, {
+	"code": "EMBR3",
+	"stock": "EMBRAER",
+	"type": "ON NM",
+	"quantity": "733,530,687",
+	"share": 1.108
+}, {
+	"code": "ENBR3",
+	"stock": "ENERGIAS BR",
+	"type": "ON NM",
+	"quantity": "295,233,783",
+	"share": 0.372
+}, {
+	"code": "EQTL3",
+	"stock": "EQUATORIAL",
+	"type": "ON NM",
+	"quantity": "198,078,980",
+	"share": 1.037
+}, {
+	"code": "ESTC3",
+	"stock": "ESTACIO PART",
+	"type": "ON NM",
+	"quantity": "308,360,074",
+	"share": 0.717
+}, {
+	"code": "FIBR3",
+	"stock": "FIBRIA",
+	"type": "ON NM",
+	"quantity": "229,520,397",
+	"share": 0.816
+}, {
+	"code": "GGBR4",
+	"stock": "GERDAU",
+	"type": "PN N1",
+	"quantity": "995,089,468",
+	"share": 1.063
+}, {
+	"code": "GOAU4",
+	"stock": "GERDAU MET",
+	"type": "PN N1",
+	"quantity": "571,971,811",
+	"share": 0.295
+}, {
+	"code": "HYPE3",
+	"stock": "HYPERMARCAS",
+	"type": "ON NM",
+	"quantity": "397,066,972",
+	"share": 1.007
+}, {
+	"code": "ITSA4",
+	"stock": "ITAUSA",
+	"type": "PN ED N1",
+	"quantity": "3,860,753,592",
+	"share": 3.414
+}, {
+	"code": "ITUB4",
+	"stock": "ITAUUNIBANCO",
+	"type": "PN ED N1",
+	"quantity": "3,119,093,161",
+	"share": 10.861
+}, {
+	"code": "JBSS3",
+	"stock": "JBS",
+	"type": "ON NM",
+	"quantity": "1,530,902,471",
+	"share": 1.009
+}, {
+	"code": "KLBN11",
+	"stock": "KLABIN S/A",
+	"type": "UNT N2",
+	"quantity": "513,709,337",
+	"share": 0.751
+}, {
+	"code": "KROT3",
+	"stock": "KROTON",
+	"type": "ON NM",
+	"quantity": "1,459,253,798",
+	"share": 2.192
+}, {
+	"code": "LAME4",
+	"stock": "LOJAS AMERIC",
+	"type": "PN N1",
+	"quantity": "669,275,886",
+	"share": 1.035
+}, {
+	"code": "LREN3",
+	"stock": "LOJAS RENNER",
+	"type": "ON NM",
+	"quantity": "703,493,232",
+	"share": 1.931
+}, {
+	"code": "MRFG3",
+	"stock": "MARFRIG",
+	"type": "ON NM",
+	"quantity": "402,499,145",
+	"share": 0.241
+}, {
+	"code": "MRVE3",
+	"stock": "MRV",
+	"type": "ON NM",
+	"quantity": "283,144,726",
+	"share": 0.335
+}, {
+	"code": "MULT3",
+	"stock": "MULTIPLAN",
+	"type": "ON N2",
+	"quantity": "89,361,034",
+	"share": 0.553
+}, {
+	"code": "NATU3",
+	"stock": "NATURA",
+	"type": "ON NM",
+	"quantity": "172,202,209",
+	"share": 0.423
+}, {
+	"code": "PCAR4",
+	"stock": "P.ACUCAR-CBD",
+	"type": "PN N1",
+	"quantity": "155,296,870",
+	"share": 0.950
+}, {
+	"code": "PETR3",
+	"stock": "PETROBRAS",
+	"type": "ON",
+	"quantity": "2,708,734,721",
+	"share": 3.474
+}, {
+	"code": "PETR4",
+	"stock": "PETROBRAS",
+	"type": "PN",
+	"quantity": "4,124,795,738",
+	"share": 5.126
+}, {
+	"code": "QUAL3",
+	"stock": "QUALICORP",
+	"type": "ON NM",
+	"quantity": "239,871,495",
+	"share": 0.712
+}, {
+	"code": "RADL3",
+	"stock": "RAIADROGASIL",
+	"type": "ON NM",
+	"quantity": "211,231,473",
+	"share": 1.282
+}, {
+	"code": "RAIL3",
+	"stock": "RUMO S.A.",
+	"type": "ON NM",
+	"quantity": "851,388,595",
+	"share": 0.687
+}, {
+	"code": "RENT3",
+	"stock": "LOCALIZA",
+	"type": "ON NM",
+	"quantity": "164,613,085",
+	"share": 0.844
+}, {
+	"code": "SANB11",
+	"stock": "SANTANDER BR",
+	"type": "UNT",
+	"quantity": "382,239,645",
+	"share": 0.919
+}, {
+	"code": "SBSP3",
+	"stock": "SABESP",
+	"type": "ON NM",
+	"quantity": "339,985,584",
+	"share": 0.929
+}, {
+	"code": "SMLE3",
+	"stock": "SMILES",
+	"type": "ON NM",
+	"quantity": "57,290,428",
+	"share": 0.364
+}, {
+	"code": "SUZB5",
+	"stock": "SUZANO PAPEL",
+	"type": "PNA N1",
+	"quantity": "465,209,171",
+	"share": 0.697
+}, {
+	"code": "TAEE11",
+	"stock": "TAESA",
+	"type": "UNT N2",
+	"quantity": "184,568,250",
+	"share": 0.348
+}, {
+	"code": "TIMP3",
+	"stock": "TIM PART S/A",
+	"type": "ON NM",
+	"quantity": "808,311,315",
+	"share": 0.755
+}, {
+	"code": "UGPA3",
+	"stock": "ULTRAPAR",
+	"type": "ON NM",
+	"quantity": "406,055,793",
+	"share": 2.477
+}, {
+	"code": "USIM5",
+	"stock": "USIMINAS",
+	"type": "PNA N1",
+	"quantity": "510,965,930",
+	"share": 0.352
+}, {
+	"code": "VALE3",
+	"stock": "VALE",
+	"type": "ON N1",
+	"quantity": "3,001,189,620",
+	"share": 8.889
+}, {
+	"code": "VIVT4",
+	"stock": "TELEF BRASIL",
+	"type": "PN",
+	"quantity": "415,110,664",
+	"share": 1.675
+}, {
+	"code": "WEGE3",
+	"stock": "WEGON NM",
+	"type": "569,478,874",
+	"share": 1.010
+}]
