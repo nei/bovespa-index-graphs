@@ -1,0 +1,29 @@
+{
+  "name": "bovespa-index-graphs",
+  "version": "1.0.0",
+  "description": "Graphs to show in a different way data from the Brazilian Stock Market BMF&Bovespa, just for fun.",
+  "main": "generateData.js",
+  "dependencies": {
+    "async": "^2.5.0",
+    "cheerio": "^1.0.0-rc.2",
+    "request": "^2.81.0",
+    "underscore": "^1.8.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nei/bovespa-index-graphs.git"
+  },
+  "keywords": [
+    "bovespa"
+  ],
+  "author": "Nei Santos <nrauni@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nei/bovespa-index-graphs/issues"
+  },
+  "homepage": "https://github.com/nei/bovespa-index-graphs#readme"
+}
